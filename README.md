@@ -1,6 +1,6 @@
 # ProducerConsumerProjectFinal
 
-SERVER
+# SERVER
 The requirements for the server are the following:
 1. The server must allow multiple clients to play simultaneously, but each client is playing their own game
 2. The server must shuffle a deck of 52 standard playing cards
@@ -9,7 +9,7 @@ The requirements for the server are the following:
 5. If the client folds, then the round ends
 6. At the end of each round, both hands are returned to the deck and the deck is shuffled
 7. The client may continue to play until they leave the table.
-CLIENT
+# CLIENT
 The requirements for the client are the following:
 1. The client sits down at the table by connecting to the server
 2. The client must indicate when they want to be dealt a hand
